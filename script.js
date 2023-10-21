@@ -1,0 +1,1 @@
+alert("Mi lubiteli pascala")
